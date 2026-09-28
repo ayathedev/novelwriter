@@ -1,0 +1,6 @@
+{
+  "name": "Novel Writer",
+  "description": "A novel writing app with a text editor, side-by-side AI chat, version tracking, and character profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
